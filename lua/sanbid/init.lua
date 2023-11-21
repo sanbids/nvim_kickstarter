@@ -1,0 +1,7 @@
+require("sanbid.core.global")
+require("sanbid.core.options")
+require("sanbid.lazy")
+require("sanbid.core.keymap")
+require("sanbid.core.autocmd")
+require("sanbid.core.diagnostic")
+require("sanbid.test")
